@@ -36,7 +36,7 @@ const Co = ({
           <div>
   {pretext ? <sub>{pretext}</sub> : null}
   <h3 style={{ display: 'flex', alignItems: 'center' }}>
-    {name} <img src="https://i.imgur.com/8KlhbFH.png" alt="External Link Icon" style={{ width: '24px', height: '24px', margin: '0 5px', filter: 'grayscale(100%)' }} />
+    {name} <img src="https://i.imgur.com/jTyYcqp.png" alt="External Link Icon" style={{ width: '24px', height: '24px', margin: '0 5px', filter: 'grayscale(100%)' }} />
   </h3>
   <span>{tagline}</span>
 </div>
