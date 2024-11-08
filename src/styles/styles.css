@@ -1,0 +1,20 @@
+:root {
+    --primary-900: hsl(0, 0%, 0%);
+    --primary-800: hsl(0, 0%, 9%);
+    --primary-200: hsl(0, 0%, 80%);
+    --primary-50: hsl(0, 0%, 95%);
+}
+
+.sc-csuSiG.czfoOc {
+    -webkit-font-smoothing: antialiased;
+    font-family: Karla, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-size: 1rem;
+    color: inherit;
+    border: 1px solid hsl(var(--primary-800));
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.1s ease 0s;
+    height: 100%;
+    will-change: transform;
+    transform: perspective(200px) rotateX(0deg) rotateY(0deg) scale(1);
+}
